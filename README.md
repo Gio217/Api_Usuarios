@@ -4,7 +4,7 @@ Uma API simples que retorna nome e website de usuários.
 
 ## Tela Pronta:
 
-![alt text](http://images/API.png)
+![alt text](images/API.png)
 
 ### Nomes: 
 
